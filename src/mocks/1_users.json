@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "email": "truongltse182338@gmail.com",
+    "password": "12345678",
+    "name": "Le The Truong",
+    "description": "qua file md copy",
+    "address": "123 Example Street, Exampleville, CA 99999",
+    "phone": "0904568234",
+    "school": "VLU"
+  },
+  {
+    "id": 2,
+    "email": "johndoe123@example.com",
+    "password": "password123",
+    "name": "John Doe",
+    "description": "Data analyst with 5 years of experience",
+    "address": "456 Elm Street, Tech City, TX 12345",
+    "phone": "0912345678",
+    "school": "MIT"
+  },
+  {
+    "id": 3,
+    "email": "janedoe456@example.com",
+    "password": "securepass456",
+    "name": "Jane Doe",
+    "description": "Creative designer specializing in branding",
+    "address": "789 Pine Avenue, Creativesville, NY 54321",
+    "phone": "0923456789",
+    "school": "RISD"
+  },
+  {
+    "id": 4,
+    "email": "michaelsmith@example.com",
+    "password": "mypassword789",
+    "name": "Michael Smith",
+    "description": "Full-stack developer with a passion for innovation",
+    "address": "101 Innovation Way, Silicon Valley, CA 94043",
+    "phone": "0934567890",
+    "school": "Stanford"
+  },
+  {
+    "id": 5,
+    "email": "sarahjones@example.com",
+    "password": "password098",
+    "name": "Sarah Jones",
+    "description": "Marketing specialist with a focus on digital campaigns",
+    "address": "202 Marketing Lane, Ad Town, FL 33445",
+    "phone": "0945678901",
+    "school": "Harvard"
+  },
+  {
+    "id": 6,
+    "email": "williamjohnson@example.com",
+    "password": "johnson2023",
+    "name": "William Johnson",
+    "description": "Cybersecurity expert ensuring system integrity",
+    "address": "303 Security Street, Safecity, WA 98052",
+    "phone": "0956789012",
+    "school": "CMU"
+  },
+  {
+    "id": 7,
+    "email": "emilyclark@example.com",
+    "password": "emilyrules123",
+    "name": "Emily Clark",
+    "description": "Project manager with 10 years of experience",
+    "address": "404 Management Drive, Task City, IL 60606",
+    "phone": "0967890123",
+    "school": "Wharton"
+  },
+  {
+    "id": 8,
+    "email": "daniellee@example.com",
+    "password": "securekey456",
+    "name": "Daniel Lee",
+    "description": "UI/UX designer creating user-friendly experiences",
+    "address": "505 Design Blvd, Interface Town, OR 97223",
+    "phone": "0978901234",
+    "school": "Parsons"
+  },
+  {
+    "id": 9,
+    "email": "katherinebrown@example.com",
+    "password": "brownie123",
+    "name": "Katherine Brown",
+    "description": "Content writer with expertise in SEO",
+    "address": "606 Writer's Lane, Content City, NV 89101",
+    "phone": "0989012345",
+    "school": "UCLA"
+  },
+  {
+    "id": 10,
+    "email": "robertwhite@example.com",
+    "password": "whitepass789",
+    "name": "Robert White",
+    "description": "Data scientist specializing in predictive modeling",
+    "address": "707 Data Drive, Analyticsville, MA 02118",
+    "phone": "0990123456",
+    "school": "Berkeley"
+  },
+  {
+    "id": 11,
+    "email": "annajackson@example.com",
+    "password": "jackson456",
+    "name": "Anna Jackson",
+    "description": "Frontend developer passionate about user experiences",
+    "address": "808 Code Crescent, Developerville, CO 80203",
+    "phone": "0901234567",
+    "school": "NYU"
+  }
+]

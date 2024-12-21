@@ -1,0 +1,50 @@
+{
+  "en": {
+    "title": "Your CV",
+    "empty": "You haven't upload any CV yet",
+    "selectFile": "Select File",
+    "major": "Major",
+    "degree": "Degree",
+    "dob": "Date of Birth",
+    "phoneNumber": "Phone Number",
+    "address": "Address",
+    "description": "Description",
+    "msgUpdating": "Updating profile ...",
+    "msgSuccess": "file uploaded successfully",
+    "msgErr": "file upload failed",
+    "msgDeleteSuccess": "File delete successfully",
+    "save": "Save"
+  },
+  "ko": {
+    "title": "귀하의 이력서",
+    "empty": "아직 이력서를 업로드하지 않았습니다.",
+    "selectFile": "파일 선택",
+    "major": "전공",
+    "degree": "학위",
+    "dob": "생년월일",
+    "phoneNumber": "전화번호",
+    "address": "주소",
+    "description": "설명",
+    "msgUpdating": "프로필을 업데이트하는 중 ...",
+    "msgSuccess": "파일 업로드가 성공적으로 완료되었습니다",
+    "msgErr": "파일 업로드가 실패했습니다",
+    "msgDeleteSuccess": "파일 삭제가 성공했습니다",
+    "save": "저장"
+  },
+  "vi": {
+    "title": "CV của bạn",
+    "empty": "Bạn chưa tải lên bất kỳ CV nào",
+    "selectFile": "Chọn tập tin",
+    "major": "Chuyên ngành",
+    "degree": "Bằng cấp",
+    "dob": "Ngày sinh",
+    "phoneNumber": "Số điện thoại",
+    "address": "Địa chỉ",
+    "description": "Mô tả",
+    "msgUpdating": "Đang cập nhật hồ sơ ...",
+    "msgSuccess": "tệp đã tải lên thành công",
+    "msgErr": "tệp đã tải lên không thành công",
+    "msgDeleteSuccess": "Xóa tệp thành công",
+    "save": "Lưu"
+  }
+}

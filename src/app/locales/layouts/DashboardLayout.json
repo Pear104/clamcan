@@ -1,0 +1,26 @@
+{
+  "en": {
+    "dashboard": "Dashboard",
+    "campaigns": "Campaigns",
+    "posts": "Posts",
+    "accounts": "Accounts",
+    "users": "Users",
+    "labels": "Labels"
+  },
+  "ko": {
+    "dashboard": "대시보드",
+    "campaigns": "캠페인",
+    "posts": "게시글",
+    "accounts": "계정",
+    "users": "사용자",
+    "labels": "라벨"
+  },
+  "vi": {
+    "dashboard": "Quản lí",
+    "campaigns": "Chiến dịch",
+    "posts": "Bài viết",
+    "accounts": "Tài khoản",
+    "users": "Người dùng",
+    "labels": "Nhãn"
+  }
+}

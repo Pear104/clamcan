@@ -1,0 +1,44 @@
+{
+  "en": {
+    "title": "Dashboard",
+    "onboardCampaigns": "Onboard Campaigns",
+    "scheduledPosts": "Scheduled Posts",
+    "campaigns": "Campaigns",
+    "launched": "Launched",
+    "posts": "Posts",
+    "created": "Created",
+    "user": "User",
+    "recruited": "Joined",
+    "raised": "Raised",
+    "applicants": "Applicants",
+    "profit": "Profit"
+  },
+  "ko": {
+    "title": "대시보드",
+    "onboardCampaigns": "온보딩 캠페인",
+    "scheduledPosts": "예약된 게시글",
+    "campaigns": "캠페인",
+    "launched": "런칭됨",
+    "posts": "게시글",
+    "created": "생성됨",
+    "user": "사용자",
+    "recruited": "모집됨",
+    "raised": "모금됨",
+    "applicants": "지원자",
+    "profit": "이익"
+  },
+  "vi": {
+    "title": "Bảng điều khiển",
+    "onboardCampaigns": "Chiến dịch đang triển khai",
+    "scheduledPosts": "Bài viết đã lên lịch",
+    "campaigns": "Chiến dịch",
+    "launched": "Đã ra mắt",
+    "posts": "Bài viết",
+    "created": "Đã tạo",
+    "user": "Người dùng",
+    "recruited": "Tuyển dụng",
+    "raised": "Thu được",
+    "applicants": "Ứng viên",
+    "profit": "Lợi nhuận"
+  }
+}

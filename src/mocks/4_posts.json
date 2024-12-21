@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Software Developer Needed – Join Our Team!",
+    "summary": "We are looking for a dynamic and multifaceted individual to join our team, capable of excelling in a variety of tasks that require creativity, technical expertise, and strategic thinking",
+    "description": "qua file md copy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Frontend Developer – Exciting Opportunity!",
+    "summary": "Seeking a talented developer to build user-friendly interfaces for web and mobile applications.",
+    "description": "Develop responsive frontends with a focus on performance.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Graphic Designer – Creative Role",
+    "summary": "Join our design team to create compelling visual content and branding solutions.",
+    "description": "Design graphics for print and digital platforms.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Marketing Specialist – Join the Revolution!",
+    "summary": "Looking for a driven marketer to develop and execute innovative campaigns.",
+    "description": "Plan and optimize digital marketing strategies.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Google_Ads_logo.svg/768px-Google_Ads_logo.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Backend Developer – Build Scalable Systems",
+    "summary": "Join our team to develop robust and secure backend systems.",
+    "description": "Design APIs and databases to support applications.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Product Manager – Lead Innovative Projects",
+    "summary": "Seeking a strategic thinker to lead product development from ideation to launch.",
+    "description": "Define product roadmaps and collaborate with cross-functional teams.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Trello_logo.svg/768px-Trello_logo.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Data Analyst – Turn Data Into Insights",
+    "summary": "Join our team to analyze data and provide actionable insights.",
+    "description": "Work with large datasets to improve decision-making.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tableau_Logo.png/768px-Tableau_Logo.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "UI/UX Designer – Craft User Experiences",
+    "summary": "Design intuitive and visually appealing user interfaces for web and mobile applications.",
+    "description": "Conduct user research and create wireframes.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/768px-Figma-logo.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "DevOps Engineer – Optimize Infrastructure",
+    "summary": "We are hiring a skilled DevOps Engineer to streamline our development and deployment pipelines.",
+    "description": "Manage CI/CD processes and cloud infrastructure.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/AWS_Simple_Icons_Compute_Amazon_EC2.svg/768px-AWS_Simple_Icons_Compute_Amazon_EC2.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Technical Writer – Simplify Complex Concepts",
+    "summary": "Looking for a technical writer to create clear and concise documentation.",
+    "description": "Develop user guides and technical manuals.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Markdown-mark.svg/768px-Markdown-mark.svg.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  },
+  {
+    "name": "Cybersecurity Specialist – Protect Systems",
+    "summary": "Join our team to secure systems and mitigate cybersecurity threats.",
+    "description": "Develop and implement security protocols.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Certified_Ethical_Hacker_%28CEH%29_logo.png/768px-Certified_Ethical_Hacker_%28CEH%29_logo.png",
+    "overtime_policy": "Overtime paid after 40 hours at 1.5x regular rate."
+  }
+]

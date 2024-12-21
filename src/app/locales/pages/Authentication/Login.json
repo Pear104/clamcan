@@ -1,0 +1,44 @@
+{
+  "en": {
+    "title": "Sign In",
+    "worker": "Worker Portal",
+    "email": "Email",
+    "emailPlaceholder": "Your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Your password",
+    "forgot": "Forgot your password?",
+    "dontHaveAccount": "Don't have an account?",
+    "signup": "Sign Up",
+    "byClicking": "By clicking continue, you agree to our Terms of Service and Privacy Policy.",
+    "msgSigingIn": "Signing In ...",
+    "msgErr": "Customer cannot access admin panel!!!"
+  },
+  "ko": {
+    "title": "로그인",
+    "worker": "근무자 포털",
+    "email": "이메일",
+    "emailPlaceholder": "이메일 주소를 입력하세요",
+    "password": "비밀번호",
+    "passwordPlaceholder": "비밀번호를 입력하세요",
+    "forgot": "비밀번호를 잊으셨나요?",
+    "dontHaveAccount": "계정이 없으신가요?",
+    "signup": "회원가입",
+    "byClicking": "계속을 클릭하면 서비스 약관 및 개인정보 보호 정책에 동의하는 것입니다.",
+    "msgSigingIn": "로그인 중 ...",
+    "msgErr": "고객은 관리자 패널에 액세스할 수 없습니다!!!"
+  },
+  "vi": {
+    "title": "Đăng Nhập",
+    "worker": "Cổng Nhân Viên",
+    "email": "Email",
+    "emailPlaceholder": "Địa chỉ email của bạn",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Mật khẩu của bạn",
+    "forgot": "Quên mật khẩu?",
+    "dontHaveAccount": "Chưa có tài khoản?",
+    "signup": "Đăng ký",
+    "byClicking": "Bằng cách nhấp vào tiếp tục, bạn đồng ý với Điều khoản dịch vụ và Chính sách bảo mật của chúng tôi.",
+    "msgSigingIn": "Đang đăng nhập ...",
+    "msgErr": "Khách hàng không thể truy cập bảng điều khiển quản trị!!!"
+  }
+}

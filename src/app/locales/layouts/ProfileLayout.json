@@ -1,0 +1,47 @@
+{
+  "en": {
+    "welcome": "Welcome",
+    "profile": "Profile",
+    "changePassword": "Change Password",
+    "cv": "CV",
+    "favorite": "Favorite Posts",
+    "applyHistory": "Apply History",
+    "phoneNumber": "Phone Number",
+    "address": "Address",
+    "description": "Description",
+    "msgUpdating": "Updating profile ...",
+    "msgSuccess": "Avatar uploaded successfully",
+    "msgErr": "Avatar upload failed",
+    "save": "Save"
+  },
+  "ko": {
+    "welcome": "환영합니다",
+    "profile": "프로필",
+    "changePassword": "비밀번호 변경",
+    "cv": "이력서",
+    "favorite": "즐겨찾기 게시글",
+    "applyHistory": "지원 내역",
+    "phoneNumber": "전화번호",
+    "address": "주소",
+    "description": "설명",
+    "msgUpdating": "프로필 업데이트 중 ...",
+    "msgSuccess": "아바타 업로드 성공",
+    "msgErr": "아바타 업로드 실패",
+    "save": "저장"
+  },
+  "vi": {
+    "welcome": "Chào mừng",
+    "profile": "Hồ sơ",
+    "changePassword": "Đổi mật khẩu",
+    "cv": "Sơ yếu lý lịch",
+    "favorite": "Công việc yêu thích",
+    "applyHistory": "Lịch sử ứng tuyển",
+    "phoneNumber": "Số điện thoại",
+    "address": "Địa chỉ",
+    "description": "Mô tả",
+    "msgUpdating": "Đang cập nhật hồ sơ ...",
+    "msgSuccess": "Avatar đã được tải lên thành công",
+    "msgErr": "Tải lên avatar thất bại",
+    "save": "Lưu"
+  }
+}

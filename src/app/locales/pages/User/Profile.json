@@ -1,0 +1,47 @@
+{
+  "en": {
+    "title": "Detail Information",
+    "fullname": "Full Name",
+    "school": "School",
+    "major": "Major",
+    "degree": "Degree",
+    "dob": "Date of Birth",
+    "phoneNumber": "Phone Number",
+    "address": "Address",
+    "description": "Description",
+    "msgUpdating": "Updating profile ...",
+    "msgSuccess": "Update profile successfully",
+    "msgErr": "Error, please try again later",
+    "save": "Save"
+  },
+  "ko": {
+    "title": "상세 정보",
+    "fullname": "성명",
+    "school": "학교",
+    "major": "전공",
+    "degree": "학위",
+    "dob": "생년월일",
+    "phoneNumber": "전화번호",
+    "address": "주소",
+    "description": "설명",
+    "msgUpdating": "프로필을 업데이트하는 중 ...",
+    "msgSuccess": "프로필 업데이트가 성공적으로 완료되었습니다",
+    "msgErr": "오류입니다. 나중에 다시 시도해 주세요",
+    "save": "저장"
+  },
+  "vi": {
+    "title": "Thông tin chi tiết",
+    "fullname": "Họ và tên",
+    "school": "Trường học",
+    "major": "Chuyên ngành",
+    "degree": "Bằng cấp",
+    "dob": "Ngày sinh",
+    "phoneNumber": "Số điện thoại",
+    "address": "Địa chỉ",
+    "description": "Mô tả",
+    "msgUpdating": "Đang cập nhật hồ sơ ...",
+    "msgSuccess": "Cập nhật hồ sơ thành công",
+    "msgErr": "Lỗi, vui lòng thử lại sau",
+    "save": "Lưu"
+  }
+}

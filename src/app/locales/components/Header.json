@@ -1,0 +1,23 @@
+{
+  "en": {
+    "home": "Home",
+    "about": "About",
+    "job": "Job",
+    "play": "Play",
+    "login": "Log in"
+  },
+  "ko": {
+    "home": "홈페이지",
+    "about": "에 대한",
+    "job": "직업",
+    "play": "놀다",
+    "login": "로그인"
+  },
+  "vi": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "job": "Công việc",
+    "play": "Chơi",
+    "login": "Đăng nhập"
+  }
+}

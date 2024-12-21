@@ -1,0 +1,62 @@
+{
+  "name": "mklirrwwmp.github",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "@hookform/resolvers": "^3.9.0",
+    "@react-three/drei": "^9.114.3",
+    "@react-three/fiber": "^8.17.10",
+    "@testing-library/jest-dom": "5.17.0",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "13.5.0",
+    "@uiw/react-md-editor": "^4.0.4",
+    "antd": "^5.21.2",
+    "chart.js": "^4.4.6",
+    "cheerio": "^1.0.0",
+    "d3-scale": "^4.0.2",
+    "dayjs": "^1.11.13",
+    "firebase": "^11.0.1",
+    "framer-motion": "^11.11.8",
+    "gsap": "^3.12.5",
+    "lucide-react": "^0.447.0",
+    "react": "18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.3.1",
+    "react-hook-form": "^7.53.0",
+    "react-router-dom": "^6.26.1",
+    "react-ruffle": "^1.0.4",
+    "react-scripts": "5.0.1",
+    "react-signify": "1.5.1",
+    "react-simple-maps": "^3.0.0",
+    "three": "^0.169.0",
+    "web-vitals": "2.1.4",
+    "zod": "^3.23.8"
+  },
+  "scripts": {
+    "startboth": "concurrently --kill-others \"npm start\" \"python -m http.server --directory python-server/quake3/\"",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.7",
+    "concurrently": "^9.0.1",
+    "react-scripts": "latest",
+    "tailwindcss": "^3.4.13"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

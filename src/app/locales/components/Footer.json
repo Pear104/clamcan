@@ -1,0 +1,38 @@
+{
+  "en": {
+    "email": "Email",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "contact": "Contact",
+    "about": "About Us",
+    "job": "Job",
+    "followUs": "Follow us",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "ko": {
+    "email": "이메일",
+    "phoneNumber": "전화번호",
+    "address": "주소",
+    "contact": "문의",
+    "about": "회사 소개",
+    "job": "채용",
+    "followUs": "팔로우",
+    "legal": "법률",
+    "privacy": "개인정보 보호 정책",
+    "terms": "이용 약관"
+  },
+  "vi": {
+    "email": "Email",
+    "phoneNumber": "Số điện thoại",
+    "address": "Địa chỉ",
+    "contact": "Liên hệ",
+    "about": "Giới thiệu",
+    "job": "Tuyển dụng",
+    "followUs": "Theo dõi chúng tôi",
+    "legal": "Pháp lý",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản & Điều kiện"
+  }
+}

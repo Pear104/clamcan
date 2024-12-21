@@ -1,0 +1,35 @@
+{
+  "en": {
+    "name": "Name",
+    "email": "Email",
+    "avatar": "Avatar",
+    "phone": "Phone",
+    "role": "Role",
+    "manager": "Manager",
+    "interviewer": "Interviewer",
+    "newAccount": "+ New Account",
+    "createNewAccount": "Create New Account"
+  },
+  "ko": {
+    "name": "이름",
+    "email": "이메일",
+    "avatar": "아바타",
+    "phone": "전화",
+    "role": "역할",
+    "manager": "매니저",
+    "interviewer": "채용 담당자",
+    "newAccount": "+ 새 계정",
+    "createNewAccount": "새 계정 만들기"
+  },
+  "vi": {
+    "name": "Tên",
+    "email": "Email",
+    "avatar": "Ảnh đại diện",
+    "phone": "Điện thoại",
+    "role": "Vai trò",
+    "manager": "Quản lý",
+    "interviewer": "Phỏng vấn viên",
+    "newAccount": "+ Tài khoản mới",
+    "createNewAccount": "Tạo tài khoản mới"
+  }
+}

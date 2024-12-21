@@ -1,0 +1,44 @@
+{
+  "en": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "avatar": "Avatar",
+    "phone": "Phone",
+    "role": "Role",
+    "manager": "Manager",
+    "interviewer": "Interviewer",
+    "newAccount": "+ New Account",
+    "createNewAccount": "Create New Account",
+    "chooseOption": "Select an option",
+    "create": "Create"
+  },
+  "ko": {
+    "name": "이름",
+    "email": "이메일",
+    "password": "비밀번호",
+    "avatar": "아바타",
+    "phone": "전화",
+    "role": "역할",
+    "manager": "매니저",
+    "interviewer": "채용 담당자",
+    "newAccount": "+ 새 계정",
+    "createNewAccount": "새 계정 만들기",
+    "chooseOption": "옵션을 선택하세요",
+    "create": "만들기"
+  },
+  "vi": {
+    "name": "Tên",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "avatar": "Ảnh đại diện",
+    "phone": "Điện thoại",
+    "role": "Vai trò",
+    "manager": "Quản lý",
+    "interviewer": "Phỏng vấn viên",
+    "newAccount": "+ Tài khoản mới",
+    "createNewAccount": "Tạo tài khoản mới",
+    "chooseOption": "Chọn một tùy chọn",
+    "create": "Tạo"
+  }
+}

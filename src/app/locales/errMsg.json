@@ -1,0 +1,52 @@
+{
+  "required": {
+    "en": "Required",
+    "ko": "필수",
+    "vi": "Bắt buộc"
+  },
+  "passMin8Char": {
+    "en": "Password must be at least 8 characters",
+    "ko": "약호은 8자이다",
+    "vi": "Mật khẩu ít nhất 8 kí tự"
+  },
+  "didNotMatch": {
+    "en": "The passwords did not match",
+    "ko": "비밀번호가 일치하지 않습니다",
+    "vi": "Mật khẩu không khớp"
+  },
+  "emailInvalid": {
+    "en": "Invalid Email",
+    "ko": "이메일가 잊을 수 없습니다",
+    "vi": "Email không đúng định dạng"
+  },
+  "invalidNumber": {
+    "en": "Invalid Number!",
+    "ko": "잘못된 숫자입니다!",
+    "vi": "Số không hợp lệ!"
+  },
+  "tooLong": {
+    "en": "Too Long!",
+    "ko": "너무 깁니다!",
+    "vi": "Quá dài!"
+  },
+  "chooseRole": {
+    "en": "Please choose a role",
+    "ko": "역할을 선택해주세요",
+    "vi": "Vui lòng chọn một vai trò"
+  },
+  "wrongPassword": {
+    "en": "Wrong password or account does not exist",
+    "ko": "약호가 잊을 수 없습니다",
+    "vi": "Sai mật khẩu hoặc tài khoản không tồn tại"
+  },
+  "alreadyUsed": {
+    "en": "Account doesn't exist or already being used",
+    "ko": "계정이 존재하지 않거나 이미 사용 중입니다",
+    "vi": "Tài khoản không tồn tại hoặc đã được sử dụng"
+  },
+  "notExist": {
+    "en": "User not exists or not activated",
+    "ko": "사용자가 존재하지 않거나 활성화되지 않았습니다.",
+    "vi": "Người dùng không tồn tại hoặc không được kích hoạt"
+  }
+}

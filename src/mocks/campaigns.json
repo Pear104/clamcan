@@ -1,0 +1,112 @@
+[
+  {
+    "key": "1",
+    "id": 1,
+    "name": "Tuyển dụng số lượng lớn IT làm việc tại Campuchia",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "description": "# Mô tả công việc\n\n- Tìm người biết Photoshop\n- Sử dụng After Effects\n- Có kinh nghiệm marketing\n- Viết content\n- Thiết kế web app\n- Xây dựng kế hoạch truyền thông\n- Edit video\n- Dựng hiệu ứng\n- Vẽ 3D\n- Xây dựng AI model cho computer vision\n- Thiết lập bảo mật mạng cho dự án\n- Thực hiện bán bảo hiểm\n- Trông giữ xe\n\n## Yêu cầu\n- Có IELTS > 8.0\n- Biết nói tiếng Nhật và tiếng Hàn\n- Có khả năng ăn hột vịt lộn\n- Biết chịu khổ, chịu khó\n\n## Lương\n- 3 triệu",
+    "estimated_cost": "200.000.000 VND",
+    "hiring_count": 30,
+    "customer_approve": true,
+    "admin_approve": true
+  },
+  {
+    "key": "2",
+    "id": 2,
+    "name": "Tìm người biết photoshop, aftereffect, marketing, viết content, thiết kế web app, xây dựng plan truyền thông, edit video, dựng effect, vẽ 3D, xây dựng AI model computer vision, thiết lập bảo mật mạng dự án, thực hiện bán bảo hiểm, trông giữ xe, có IELTS > 8.0, biết nói tiếng Nhật, tiếng Hàn, ăn được hột vịt lộn, biết chịu khổ chịu khó, lương 3 triệu",
+    "description": "# Mô tả công việc\n\n- **Kỹ năng yêu cầu:**\n  - Biết sử dụng Photoshop\n  - Sử dụng After Effects\n  - Có kinh nghiệm trong marketing\n  - Viết content\n  - Thiết kế web app\n  - Xây dựng kế hoạch truyền thông\n  - Edit video\n  - Dựng hiệu ứng\n  - Vẽ 3D\n  - Xây dựng AI model cho computer vision\n  - Thiết lập bảo mật mạng cho dự án\n  - Thực hiện bán bảo hiểm\n  - Trông giữ xe\n\n- **Yêu cầu khác:**\n  - IELTS > 8.0\n  - Biết nói tiếng Nhật và tiếng Hàn\n  - Có khả năng ăn hột vịt lộn\n  - Chịu khổ, chịu khó\n\n- **Lương:** 3 triệu",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "3.000.000 VND",
+    "hiring_count": 1,
+    "customer_approve": true,
+    "admin_approve": false
+  },
+  {
+    "key": "2",
+    "id": 3,
+    "name": "Tìm gấp nhân sự sale đa cấp",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "50.000.000 VND",
+    "hiring_count": 10,
+    "customer_approve": true,
+    "admin_approve": true
+  },
+  {
+    "key": "2",
+    "id": 4,
+    "name": "Cần gấp 1 sếp biết ăn nói",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "200.000.000 VND",
+    "hiring_count": 1,
+    "customer_approve": true,
+    "admin_approve": false
+  },
+  {
+    "key": "2",
+    "id": 5,
+    "name": "Tuyển bạn trai",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "3.000.000 VND",
+    "hiring_count": 1,
+    "customer_approve": false,
+    "admin_approve": false
+  },
+  {
+    "key": "2",
+    "id": 6,
+    "name": "Tuyển nhân sự bán bảo hiểm",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "200.000.000 VND",
+    "hiring_count": 30,
+    "customer_approve": true,
+    "admin_approve": true
+  },
+  {
+    "key": "2",
+    "id": 7,
+    "name": "Tìm 30 gia sư toàn thời gian",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "200.000.000 VND",
+    "hiring_count": 30,
+    "customer_approve": true,
+    "admin_approve": false
+  },
+  {
+    "key": "2",
+    "id": 8,
+    "name": "Tuyển nhân sự KFC",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "200.000.000 VND",
+    "hiring_count": 30,
+    "customer_approve": true,
+    "admin_approve": true
+  },
+  {
+    "key": "2",
+    "id": 9,
+    "name": "Tuyển nhân sự phụ hồ",
+    "time": "11/04/18 - 12/04/18",
+    "startDate": "11/04/18",
+    "endDate": "12/04/18",
+    "estimated_cost": "200.000.000 VND",
+    "hiring_count": 1,
+    "customer_approve": true,
+    "admin_approve": false
+  }
+]

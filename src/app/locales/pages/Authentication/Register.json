@@ -1,0 +1,52 @@
+{
+  "en": {
+    "title": "Create an account",
+    "guide": "Enter your email below to create your account",
+    "worker": "Worker Portal",
+    "email": "Email",
+    "emailPlaceholder": "Your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Your password",
+    "forgot": "Forgot your password?",
+    "alreadyHaveAccount": "Already have an account",
+    "signup": "Sign Up",
+    "signin": "Sign In",
+    "byClicking": "By clicking continue, you agree to our Terms of Service and Privacy Policy.",
+    "msgSigingUp": "Signing up ..."
+  },
+  "ko": {
+    "title": "계정 만들기",
+    "guide": "계정을 만들려면 아래에 이메일을 입력하세요.",
+    "worker": "근무자 포털",
+    "email": "이메일",
+    "emailPlaceholder": "이메일 주소를 입력하세요",
+    "password": "비밀번호",
+    "passwordPlaceholder": "비밀번호를 입력하세요",
+    "confirmPassword": "비밀번호 확인",
+    "confirmPasswordPlaceholder": "비밀번호를 다시 입력하세요",
+    "alreadyHaveAccount": "이미 계정이 있으신가요?",
+    "signup": "회원가입",
+    "signin": "로그인",
+    "byClicking": "계속을 클릭하면 서비스 약관 및 개인정보 보호 정책에 동의하는 것입니다.",
+    "msgSigingUp": "회원가입 중 ..."
+  },
+  "vi": {
+    "title": "Tạo tài khoản",
+    "guide": "Nhập email của bạn bên dưới để tạo tài khoản",
+    "worker": "Cổng Nhân Viên",
+    "email": "Email",
+    "emailPlaceholder": "Địa chỉ email của bạn",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Mật khẩu của bạn",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "confirmPasswordPlaceholder": "Mật khẩu của bạn",
+    "alreadyHaveAccount": "Đã có tài khoản",
+    "signup": "Đăng ký",
+    "signin": "Đăng Nhập",
+    "byClicking": "Bằng cách nhấp vào tiếp tục, bạn đồng ý với Điều khoản dịch vụ và Chính sách bảo mật của chúng tôi.",
+    "msgSigingUp": "Đang đăng ký ...",
+    "msgErr": "Tài khoản không tồn tại hoặc đã được sử dụng"
+  }
+}

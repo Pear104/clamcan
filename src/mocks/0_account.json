@@ -1,0 +1,31 @@
+[
+  {
+    "email": "besihi4382@rustetic.com",
+    "password": "12345678",
+    "role": "Admin"
+  },
+  {
+    "email": "giyay25411@pokeline.com",
+    "password": "12345678",
+    "role": "Manager"
+  },
+  {
+    "email": "rixijo2374@pokeline.com",
+    "password": "12345678",
+    "role": "Interviewer"
+  },
+  {
+    "email": "xiridib237@pokeline.com",
+    "password": "12345678",
+    "role": "User"
+  },
+  {
+    "email": "fadane8804@pokeline.com",
+    "password": "12345678",
+    "role": "User",
+    "address": [
+      "707 Data Drive, Analyticsville, MA 02118",
+      "808 Code Crescent, Developerville, CO 80203"
+    ]
+  }
+]
